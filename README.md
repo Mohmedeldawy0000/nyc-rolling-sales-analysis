@@ -1,1 +1,1 @@
-# nyc-rolling-sales-analysis
+# new-york-city-rolling-sales-analysis
